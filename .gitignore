@@ -9,3 +9,4 @@
 *.pdb
 
 .ipynb_checkpoints
+.idea/
